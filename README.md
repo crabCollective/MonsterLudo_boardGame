@@ -37,3 +37,6 @@ Multiple assets has been used for creation of this game. Because of the legal is
 - after restart, no music is playing - problem with MM_Music manager from FEEL framework
 - problems with round text after restart - again FEEL-related problem, partially fixed
 - figures sometimes jump when they shouldn't
+
+### Unity editor compatibility:
+Tested in Unity 2021.3.17f1

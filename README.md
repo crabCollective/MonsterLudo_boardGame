@@ -6,7 +6,7 @@ This game is variation of a popular LUDO game. Two teams represented by box-like
 You can find the game here: https://collectiveofcrab.com/monsterludo/
 
 I formerly created this as a test task for the company I was interviewing with and now I am showing this publicly for the people to get better understanding of my coding abilities and project structuring.
-This game is bare working minimum and it definitely shouldn't be taken as a final product. Actually, it would need quite a lot polish to be considered as a proper game. 
+This game is bare working minimum and it definitely shouldn't be taken as a final product. Actually, it would need quite a lot of polish to be considered as a proper game. 
 
 **Rules:**
 - Each turn consists from 3 actions - figure selection, dice roll and figure movement
